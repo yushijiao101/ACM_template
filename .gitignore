@@ -1,0 +1,26 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Test build output
+tests/.build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor and local problem metadata
+.cph/
+**/.cph/
+.vscode/
+**/.vscode/
+.claude/
+
+# Generated intermediate file
+templates.html
+
+# OS files
+.DS_Store
+Thumbs.db
