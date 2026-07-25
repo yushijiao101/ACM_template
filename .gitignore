@@ -24,3 +24,15 @@ templates.html
 # OS files
 .DS_Store
 Thumbs.db
+
+/Computational Geometry/
+/Data Structure/
+/Dynamic Programing/
+/Graph Theory/
+/Math(mainly Combination)/
+/Number Theory/
+/Other/
+/String/
+/Trees/
+/generate_pdf.py
+/算法竞赛模板集.pdf
